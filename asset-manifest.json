@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Slowflov/Project9/static/css/main.df821b80.css",
+    "main.js": "/Slowflov/Project9/static/js/main.65ae8c6e.js",
+    "static/js/787.bd863a58.chunk.js": "/Slowflov/Project9/static/js/787.bd863a58.chunk.js",
+    "index.html": "/Slowflov/Project9/index.html",
+    "main.df821b80.css.map": "/Slowflov/Project9/static/css/main.df821b80.css.map",
+    "main.65ae8c6e.js.map": "/Slowflov/Project9/static/js/main.65ae8c6e.js.map",
+    "787.bd863a58.chunk.js.map": "/Slowflov/Project9/static/js/787.bd863a58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df821b80.css",
+    "static/js/main.65ae8c6e.js"
+  ]
+}
